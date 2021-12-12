@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Defining variables..."
+echo "Defining variables... "
 export RANDOM=1215654654655
 export RESOURCE_GROUP_NAME=mslearn-gh-pipelines-$RANDOM
 export AKS_NAME=contoso-video
